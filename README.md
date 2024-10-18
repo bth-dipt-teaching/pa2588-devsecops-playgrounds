@@ -5,6 +5,7 @@ Follow the steps in the respective README file to learn more about different sec
 
    - [**Playground: Static Application Security Test (SAST)**](https://github.com/bth-dipt-teaching/pa2588-devsecops-sast)
    - [**Playground: Software Composition Analysis (SCA)**](https://github.com/bth-dipt-teaching/pa2588-devsecops-sca)
+   - [**Playground: Software Bill of Material (SBOM)**](https://github.com/bth-dipt-teaching/pa2588-devsecops-sbom)
    - [**Playground: Container Security**](https://github.com/bth-dipt-teaching/pa2588-devsecops-container-security)
    - [Playground: Security of Infrastructure as Code (IaC)](https://github.com/bth-dipt-teaching/pa2588-devsecops-iac-security) (⚠️ not fully tested)
    - [Playground: Secrets Scanning and Secrets Management](https://github.com/bth-dipt-teaching/pa2588-devsecops-secrets-management) (⚠️ not fully tested)
